@@ -1,2 +1,0 @@
-# Trianglify-meets-React
-This React app contains a series of components that implement the Trianglify package (in vanilla JavaScript) in various ways. It's intended to be used as a testing site and template repo. It also also contains an HTML example for testing in browser, as it's currently cumbersome to tinker with the designs in React. I recommend using vanilla javascript/css/html to test your Trianglify implementations before moving them to React.
